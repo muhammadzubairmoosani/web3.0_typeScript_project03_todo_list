@@ -1,6 +1,6 @@
 {
-  "name": "web3.0_typescript_project03_todo_list",
-  "version": "1.0.0",
+  "name": "inquirer_todo_list_03_zm",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "type": "module",
@@ -9,10 +9,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/muhammadzubairmoosani/web3.0_typeScript_project03_todo_list.git"
+    "url": "https://github.com/muhammadzubairmoosani/web3.0_typeScript_project03_todo_list.git"
   },
-  "keywords": [],
-  "author": "",
+  "bin": "./index.js",
+  "keywords": [
+    "TypeScript",
+    "todo-list",
+    "inquirer",
+    "CLI",
+    "command line interface",
+    "task manager",
+    "task management"
+  ],
+  "author": "Zubair Moosani",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/muhammadzubairmoosani/web3.0_typeScript_project03_todo_list/issues"
